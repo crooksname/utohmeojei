@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aerobaifi.martin-gude.com/sitemap.xml
